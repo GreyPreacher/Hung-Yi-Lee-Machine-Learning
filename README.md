@@ -9,7 +9,7 @@
 # HWs
 🎫 The HWs contain 15 homework. 
 
-- [x] Hw1: Regression
+- [x] HW1: [Regression](https://github.com/GreyPreacher/Hung-Yi-Lee-Machine-Learning/blob/main/HW1%20Regression/ML2023Spring_HW1.ipynb)
 - [ ] HW2: Classification
 - [ ] HW3: CNN
 - [ ] HW4: Self-attention
@@ -20,7 +20,7 @@
 - [ ] HW9: Explainable AI
 - [ ] HW10: Attack
 - [ ] HW11: Adaptation
-- [ ] Hw12: Reinforcement Learning
-- [ ] Hw13: Network Compression
+- [ ] HW12: Reinforcement Learning
+- [ ] HW13: Network Compression
 - [ ] HW14:  Life-long Learning
 - [ ] HW15: Meta Learning
